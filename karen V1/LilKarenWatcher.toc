@@ -1,0 +1,4 @@
+## Interface: 11200
+## Title: LilKaren Watcher
+## Notes: Alerts you when LilKaren is nearby
+LilKarenWatcher.lua
